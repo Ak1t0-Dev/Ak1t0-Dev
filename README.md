@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akito Tobita.</h1>
 
-<h3 align="center">A dedicated and driven full-stack developer with over 6+ years’ experience in backend and full-stack development who lives in Vancouver🇨🇦</h3>
+<h3 align="center">A dedicated and driven full-stack software engineer with 6 years experience in full-stack development who lives in Vancouver🇨🇦</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak1t0-dev" alt="ak1t0-dev" /></a> </p>
 
